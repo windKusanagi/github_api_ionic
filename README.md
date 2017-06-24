@@ -1,4 +1,4 @@
-This is a starter template for [Ionic](http://ionicframework.com/docs/) projects.
+A small ionic3 app that uses github_api.
 
 ## How to use this template
 
