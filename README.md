@@ -1,4 +1,4 @@
-A small ionic3 app that uses github_api.
+A small ionic3 app that uses github_api to search user's profile and corresponding repositories.
 
 ## How to use this template
 
